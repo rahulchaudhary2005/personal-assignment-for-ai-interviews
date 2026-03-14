@@ -1,0 +1,7 @@
+TicketID,Name,Email,IssueType,Priority,Description,Timestamp
+1,Rahul Kumar,rahul@gmail.com,wifi,High,Unable to connect to campus wifi,2026-03-11 10:00
+2,Anita Sharma,anita@gmail.com,login,Medium,Cannot login to university portal,2026-03-11 10:15
+3,Amit Verma,amit@gmail.com,software,Low,Software installation request,2026-03-11 11:00
+4,Neha Singh,neha@gmail.com,hardware,High,Laptop not booting,2026-03-11 11:30
+5,Rahul Kumar,rahul@gmail.com,wifi,High,Wifi still not working,2026-03-11 11:45
+6,Ravi Kumar,invalidemail,login,Medium,Password reset issue,2026-03-11 12:00

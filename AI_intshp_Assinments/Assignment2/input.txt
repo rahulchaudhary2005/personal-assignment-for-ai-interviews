@@ -1,0 +1,5 @@
+Hello everyone!
+Welcome to our Python workshop.
+You will learn programming fundamentals.
+This session will help you start your coding journey.
+Seats are limited so register now.
